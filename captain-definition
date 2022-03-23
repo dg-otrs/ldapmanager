@@ -1,4 +1,4 @@
 {
  "schemaVersion": 2,
- "imageName": "ldapaccountmanager/lam:stable"
+ "imageName": "ldapaccountmanager/lam:7.8"
 }
